@@ -23,7 +23,7 @@ const form = ref({
 })
 and of course fetch the categories accordingly.
 
-Some options inside the component are commented 
+Some options inside the component are commented, can be used optionally if needed
 
 
 
